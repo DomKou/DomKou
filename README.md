@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DomKou
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning HTML, CSS
+- 📫 How to reach me dominickouassi@gmail.com 
